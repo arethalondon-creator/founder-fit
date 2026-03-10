@@ -21,7 +21,6 @@
     "@babel/preset-env": "^7.29.0",
     "@babel/preset-react": "^7.28.5",
     "@babel/preset-typescript": "^7.28.5",
-    "@next/swc-darwin-x64": "^16.1.6",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
