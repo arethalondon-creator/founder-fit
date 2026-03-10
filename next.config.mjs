@@ -1,1 +1,2 @@
-const nextConfig = { experimental: { forceSwcTransforms: false } }; export default nextConfig;
+const nextConfig = {};
+export default nextConfig;
